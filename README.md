@@ -3,7 +3,7 @@
 > [!Important]
 >
 > ### English version of README.md
-> [Here]()
+> [Here](https://github.com/GdStepan2/NiceStrike2/blob/main/ENG_README.md)
 
 --------------------------------------------------------------------------------------------
 
